@@ -122,27 +122,12 @@ img.bonprix {
     float: left;
     margin-left:10px; 
     margin-right: 8px;
+    margin-bottom: 8px; 
     
 }
 
 /*other*/ 
- /*   .korting {
-font-family: "Arial Black", Gadget, sans-serif;
-font-size: 23px;
-letter-spacing: 1px;
-word-spacing: 0.2px;
-color: #000000;
-font-weight: 400;
-text-decoration: none;
-font-style: oblique;
-font-variant: normal;
-text-transform: none;
-margin: auto 0;
-border: 5px rgb(179, 179, 179) solid;
-padding:50px;
 
-} 
-*/
 
 .klik {
     margin-left: 20%;
@@ -161,7 +146,9 @@ font-style: italic;
 font-variant: normal;
 text-transform: none;
 margin: 0 auto;
+
 }
+
 
 a {
     color: skyblue;
