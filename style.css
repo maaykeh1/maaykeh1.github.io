@@ -4,17 +4,17 @@ html, body {
     height: 100%;
     padding: 0;
     color: hsl(0, 0%, 0%);
-    font: Verdana, Arial, Sans-Serif;
+    font-family: 'Blinker';font-size: 12px;
     margin: 0 auto;
 
 }
 html{
-     background-image: url("afbeeldingen/marmerlang.jpg");
-      background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+    background-image: url("afbeeldingen/marmerlang.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
   
-     background-color: #EEEEEE;  
+     background-color: rgb(233, 233, 233);  
      
  }
 
@@ -27,7 +27,7 @@ main {
 
 article {
 text-align: justify;
-font-family: 'Fanwood Text';font-size: 22;
+font-family: 'Cormorant Upright';font-size: 15px;
 margin-left:10px;
 margin-right:10px;
 }
@@ -130,8 +130,8 @@ img.bonprix {
 
 
 .klik {
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .myreview {
